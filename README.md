@@ -10,3 +10,5 @@
 비공식 프로젝트이므로 실제 원문과 의미가 다르게 전달될 수 있습니다. 더 많은 내용, 더 나은 번역을 위해 여러분들의 도움이 필요합니다. 페이지의 [GitHub 저장소](https://github.com/panda5176/pandas-korean)에 많은 issue와 pull request 부탁드립니다. [사이킷런(scikit-learn) 번역 프로젝트](https://panda5176.github.io/scikit-learn-korean)와 [씨본(seaborn) 번역 프로젝트](https://panda5176.github.io/seaborn-korean)에도 많은 관심과 기여 부탁드립니다.
 
 ## 목차
+- [시작하기](getting_started) (원문: [Getting started](https://pandas.pydata.org/docs/getting_started/index.html))
+- [사용자 안내](user_guide) (원문: [User Guide](https://pandas.pydata.org/docs/user_guide/index.html))
